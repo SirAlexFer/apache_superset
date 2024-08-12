@@ -5,5 +5,10 @@ BI система Apache Superset с открытым исходным кодо�
 
 1) git clone https://github.com/apache/superset
 2) cd superset
-3) docker compose -f docker-compose-image-tag.yml up
+3) docker compose up
 
+http://localhost:8088/dataset/add/
+
+Изменения по сравнению с custom версией
+1) Изменено название на "Data Dashboard"
+2) 
